@@ -136,7 +136,7 @@ Files were exported as `.glb` and compared based on:
 A sample video generated using prompt-based 3D scene creation.
 
 **Video File:**  
-[Click here to view the generated video](sandbox:/mnt/data/2025-11-24T18-55-13_a_floating_glowing_watermarked.mp4)
+[Click here to view the generated video]([sandbox:/mnt/data/2025-11-24T18-55-13_a_floating_glowing_watermarked.mp4](https://dream-machine.lumalabs.ai/share/board/72dc5041-e40c-459a-bbf9-82d150da80fc))
 
 
 
