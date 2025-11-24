@@ -131,10 +131,14 @@ Files were exported as `.glb` and compared based on:
 
 ---
 
-## Output (Text Used):
-> "A floating glowing blue crystal above an ancient stone pedestal, rotating slowly with soft shadows and ambient mystical lighting."
+## Output Video:
 
-A corresponding 3D model was generated successfully, demonstrating the effectiveness of prompt engineering.
+A sample video generated using prompt-based 3D scene creation.
+
+**Video File:**  
+[Click here to view the generated video](sandbox:/mnt/data/2025-11-24T18-55-13_a_floating_glowing_watermarked.mp4)
+
+
 
 ---
 
