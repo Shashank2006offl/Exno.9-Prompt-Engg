@@ -135,10 +135,14 @@ Files were exported as `.glb` and compared based on:
 
 A sample video generated using prompt-based 3D scene creation.
 
-<video width="600" controls>
-  <source src="sandbox:/mnt/data/2025-11-24T18-55-13_a_floating_glowing_watermarked.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+## Output Video:
+
+A sample video generated using prompt-based 3D scene creation.
+
+**Video File:**  
+[Click here to view the generated video](https://drive.google.com/file/d/1-HzEBgP9Tsltr2hT_LKGndMYr5uX3f0z/view?usp=drive_link)
+
+
 
 
 
